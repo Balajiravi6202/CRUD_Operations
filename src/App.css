@@ -1,0 +1,20 @@
+.head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  color: white;
+  background-color: black;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.button{
+  color: rgb(236, 236, 243);
+  background-color: blue;
+}
